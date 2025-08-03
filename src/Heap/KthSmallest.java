@@ -1,6 +1,8 @@
+package Heap;
 import java.util.*;
 
-public class KthSmallestElement {
+
+public class KthSmallest{
 
     public static int findKthSmallest(int[] arr, int k) {
         PriorityQueue<Integer> maxHeap = new PriorityQueue<>(Collections.reverseOrder());
