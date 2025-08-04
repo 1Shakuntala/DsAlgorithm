@@ -3,7 +3,7 @@ import java.util.*;
 
 public class MaxSubArraySum {
 
-    public static int maxSumSubarrayOfSizeK(int[] arr, int k) {
+    public static int MaxSumSubArrayOfSizeK(int[] arr, int k) {
         int i = 0, j = 0, sum = 0;
         int mx = Integer.MIN_VALUE;
         int size = arr.length;
@@ -33,7 +33,7 @@ public class MaxSubArraySum {
         int[] arr = {1, 4, 2, 10, 23, 3, 1, 0, 20};
         int k = 4;
 
-        int result = maxSumSubarrayOfSizeK(arr, k);
+        int result = MaxSumSubArrayOfSizeK(arr, k);
         if (result != -1) {
             System.out.println("Maximum sum of subarray of size " + k + " is: " + result);
         }
