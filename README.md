@@ -4,7 +4,7 @@ This repository contains well-organized solutions to commonly asked **Data Struc
 
 ## Folders Overview
 
-- [Heap](Heap/) 
-- [Sliding Window](SlidingWindow/)
+- [Heap](src/) 
+- [Sliding Window](src/)
 
 
