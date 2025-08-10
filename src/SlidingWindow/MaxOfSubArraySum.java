@@ -1,7 +1,6 @@
 package SlidingWindow;
-import java.util.*;
 
-public class MaxSubArraySum {
+public class MaxOfSubArraySum {
 
     public static int MaxSumSubArrayOfSizeK(int[] arr, int k) {
         int i = 0, j = 0, sum = 0;
