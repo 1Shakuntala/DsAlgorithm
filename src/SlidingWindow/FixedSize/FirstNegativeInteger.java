@@ -1,8 +1,8 @@
-package SlidingWindow;
+package SlidingWindow.FixedSize;
+
 import java.util.*;
 
-
-public class FirstNegativeIntInWindow {
+public class FirstNegativeInteger {
     public static List<Integer> findFirstNegative(int[] arr, int k){
         List<Integer> res = new ArrayList<>();
         Queue<Integer> negative = new LinkedList<>();
@@ -42,6 +42,7 @@ public class FirstNegativeIntInWindow {
         return res;
 
     }
+
     public static void main(String[] args){
         int[] arr = {12, -1, -7, 8, -15, 30, 16, 18};
         int k=3;

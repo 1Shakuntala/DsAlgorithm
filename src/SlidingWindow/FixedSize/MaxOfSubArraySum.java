@@ -1,4 +1,4 @@
-package SlidingWindow;
+package SlidingWindow.FixedSize;
 
 public class MaxOfSubArraySum {
 
