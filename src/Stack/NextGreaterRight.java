@@ -2,7 +2,7 @@ package Stack;
 
 import java.util.*;
 
-public class NextGreaterElement {
+public class NextGreaterRight {
     public static void main(String[] args) {
         int[] arr = {4, 5, 2, 25};
         int n = arr.length;
@@ -20,6 +20,7 @@ public class NextGreaterElement {
             }
             stack.push(arr[i]);
         }
+
 
         System.out.println(Arrays.toString(result));
     }
