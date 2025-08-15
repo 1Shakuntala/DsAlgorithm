@@ -6,5 +6,6 @@ This repository contains well-organized solutions to commonly asked **Data Struc
 
 - [Heap](src/Heap/) 
 - [Sliding Window](src/SlidingWindow)
-
+- [Stack](src/Stack)
+- [Recursion](src/Recusion)
 
