@@ -21,7 +21,7 @@ public class RainWaterTrapping {
             rightMax[i] = Math.max(rightMax[i + 1], arr[i]);
         }
 
-        // Step 3: Calculate water at each index {and if building present then subtract to calculate water level}
+        // Step 3: Calculate water at each index {and if building present then subtract to calculate water level)
         for (int i = 0; i < n; i++) {
             water[i] = Math.min(leftMax[i], rightMax[i]) - arr[i];
         }
