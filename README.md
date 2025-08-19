@@ -8,12 +8,12 @@ This project is a collection of fundamental algorithms and data structures imple
 - [Sliding Window](src/SlidingWindow)
 - [Stack](src/Stack)
 - [Recursion](src/Recusion)
-- [StringMatching]
-- [BinarySearch]
-- [FaceToFaceInterviewQuest]
-- [BackTracking]
-- [Dp]
-- [Graph] 
+- StringMatching
+- BinarySearch
+- FaceToFaceInterviewQuest
+- BackTracking
+- Dp
+- Graph 
 
 
 
