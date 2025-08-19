@@ -8,4 +8,13 @@ This repository contains well-organized solutions to commonly asked **Data Struc
 - [Sliding Window](src/SlidingWindow)
 - [Stack](src/Stack)
 - [Recursion](src/Recusion)
+- [StringMatching]
+- [BinarySearch]
+- [FaceToFaceInterviewQuest]
+- [Dp]
+- [Graph] 
+- [BackTracking]
+
+
+
 
