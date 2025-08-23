@@ -1,6 +1,6 @@
 # Algorithm
 
-This repository contains well-organized solutions to commonly asked **Data Structures and Algorithms** problems. The code is grouped by topics such as Arrays, Heaps, Sliding Window, and more. Each folder includes Java implementations, using optimal approaches and clean code structure.
+This project is a collection of fundamental algorithms and data structures implemented in Java. I am solving these questions topic-wise as part of my interview preparation to improve my skills and abilities. The code is written in Java with a focus on clear logic and optimal approaches.
 
 ## Folders Overview
 
@@ -8,4 +8,14 @@ This repository contains well-organized solutions to commonly asked **Data Struc
 - [Sliding Window](src/SlidingWindow)
 - [Stack](src/Stack)
 - [Recursion](src/Recusion)
+- StringMatching
+- BinarySearch
+- FaceToFaceInterviewQuest
+- BackTracking
+- Dp
+- Graph 
+
+
+
+
 
