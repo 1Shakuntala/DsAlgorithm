@@ -14,7 +14,6 @@ public class MaxOfSubArraySum {
 
         while (j < size) {
             sum += arr[j];
-
             if (j - i + 1 < k) {
                 j++;
             } else if (j - i + 1 == k) {
